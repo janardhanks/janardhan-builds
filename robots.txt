@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://janardhanks.github.io/janardhan-builds/sitemap.xml
