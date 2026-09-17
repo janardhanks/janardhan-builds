@@ -15,7 +15,7 @@ const PROJECTS = [
     name:"JustTypeWeb", category:"Web App", status:"LIVE",
     description:"A text-first social platform for publishing posts, interacting with people and exploring content.",
     tags:["JavaScript","Firebase","Firestore"],
-    live:"https://justtypeweb.github.io/", github:"", image:"assets/justtypeweb.svg"
+    live:"https://janardhanks.github.io/all-chat-ai/", github:"", image:"assets/justtypeweb.svg"
   },
   {
     name:"PlutomarsGames", category:"Games", status:"LIVE",
